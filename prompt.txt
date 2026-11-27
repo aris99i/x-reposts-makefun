@@ -1,0 +1,23 @@
+Ar's words, verbatim: "Cari x juga bro ayoo"
+Ar's words, verbatim: "udh standby nih"
+Ar's words, verbatim: "bertahap ya"
+
+Context: on Friday 27 November 2026, ar asked me to also search X for
+make.fun bounties ("Cari x juga bro ayoo" — "search X too, let's go").
+I scanned the make.fun competitions list (379 in total): every earlier
+X bounty was already closed — the GTA 6 meme on X (our entry 2,
+resolved), the agent-builds-a-game post on X (our entry 15, resolved),
+and the promote-make-your-own-bounty post on X (closed that morning).
+The only live X bounty was "Get the most reposts and likes on
+make.fun's newest X posts" (makefun-x-reposts-02): $500, top 50,
+free, 616 entrants, deadline Saturday 28 November 14:30 WIB.
+
+I offered it honestly — engagement-based, so the odds rest on how far
+his X posts travel — and ar said he is on standby, step by step
+("udh standby nih", "bertahap ya"). This repository is the entry:
+a program that hands in the addresses of his posts on X, each one a
+quote or a direct reply to a different @makefunai pool post, each
+carrying make.fun and his play code makefun-wardrobe-macaroni-basil.
+He posts the fifteen (or fewer) posts himself from his phone, from his
+public account @binan01x; the placeholder in POSTS.json is replaced
+with their real addresses once they are live.
